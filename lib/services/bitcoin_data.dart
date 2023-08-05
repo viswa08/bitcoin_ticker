@@ -2,7 +2,7 @@ import 'networking.dart';
 
 // const coinAPI = "https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=";
 const coinAPI = "https://rest.coinapi.io/v1/exchangerate/BTC/";
-const apiKey = "CE4F634A-B636-4BB2-A361-78F362EA19B4";
+const apiKey = "Enter your api key here";
 
 class BitcoinModel {
   Future<dynamic> getBitcoinUSDData() async {
